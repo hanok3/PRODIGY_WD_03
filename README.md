@@ -1,0 +1,1 @@
+I built an  tic-tac-toe web application,by using HTML, CSS, and JavaScript. By implementing the functions to handle user clicks, track game state, created an interactive and engaging tic-tac-toe game.
